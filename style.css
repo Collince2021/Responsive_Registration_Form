@@ -1,14 +1,13 @@
 body{
-  height:100vh;
-  margin: 0;
-  paddi: 0;
+   margin: 0;
+  padding: 0;
   border-sizing: border-box;
   background-image: url("../Images/bg-intro-desktop.png");
   background-size:cover;
 }
 main{
   width: 50%;
-  margin:auto:
+  margin:auto;
   display: flex;
   justify-content:center;
   align-items:center;
