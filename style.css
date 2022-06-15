@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  paddi: 0;
+  border-sizing: border-box;
+  background: image url("../Images/bg-intro-desktop.png");
+  background-size:cover;
+}
+main{
+  width: 50%;
+  margin:auto:
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+.bottom-container{
+  height: 60vh;
+}
+.bottom-container .first-btm-container{
+  background-color:rebeccapurple
+}
