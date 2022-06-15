@@ -3,7 +3,7 @@ body{
   margin: 0;
   paddi: 0;
   border-sizing: border-box;
-  background: image url("../Images/bg-intro-desktop.png");
+  background-image: url("../Images/bg-intro-desktop.png");
   background-size:cover;
 }
 main{
@@ -18,5 +18,5 @@ main{
   height: 60vh;
 }
 .bottom-container .first-btm-container{
-  background-color:rebeccapurple
+  background-color:rebeccapurple;
 }
